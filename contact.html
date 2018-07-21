@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>About Me</title>
+    <title>Contact</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="assets/css/reset.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css" />
@@ -12,8 +12,8 @@
 <body>
     
     <div class="clearfix"></div>
-
-    <div class="wrapper">
+        
+    <div class="wrapper">       
         <header>
             <div class="heading">
                 <h1>Ben Thomson</h1>
@@ -25,28 +25,36 @@
                 | 
                 <a href="contact.html">Contact</a>
             </div>
-
+        
         </header>
-
         
         <div class="clearfix"></div>
 
         <div class="bodywrap">
         <section>
+        
+        <article>
             <div class="about">
-                <h1>About Me</h1>
+                <h1>Contact</h1>
             </div>
-            <img id="shrek"
-            src="assets/images/Ben.jpg"
-            alt="Ben Thomson">
-            <div id="aboutMe">I'm an Ogre thank you very much, thank you. Stay out of my swamp
-                and stay green.
-            </div>
-            <div class="clearfix"></div>
+            <br>
+            <form action="mailto:thomson.bs@gmail.com" method="post" enctype="text/plain">
+            <a class="mailname">Name:<br>
+            <input type="text" name="name"></a><br>
+            <a class="mailemail">E-mail:<br>
+            <input type="text" name="name"></a><br>
+            <a class="mailcomment">Comment:<br>
+            <textarea rows="5"></textarea>
+            </a><br><br>
+            <input type="submit" value="Send">
+            </form>
+        </article>
+        
         </section>
         </div>
         <div class="push"></div>
     </div>
+
 
     <Footer>
         Copywrite ©
