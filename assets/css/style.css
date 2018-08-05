@@ -108,121 +108,14 @@ input {
     color: #4aaaa5;
 }
 
-.Image1 {
+.Image {
     margin-right: 20px;
     margin-bottom: 20px;
     float: left;
     position: relative;
 }
 
-.Image2 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-}
-.Image3 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-}
-.Image4 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-
-}
-
-.Image5 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-}
-
-.Image6 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-}
-
-.Image7 {
-    margin-right: 20px;
-    margin-bottom: 20px;
-    float: left;
-    position: relative;
-}
-
-.text-block1 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block2 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block3 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block4 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block5 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block6 {
-    position:absolute;
-    background-color: #4aaaa5;
-    color: #ffffff;
-    top: 100px;
-    width: 100%;
-    text-align: center;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-.text-block7 {
+.text-block {
     position:absolute;
     background-color: #4aaaa5;
     color: #ffffff;
