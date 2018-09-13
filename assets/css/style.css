@@ -87,6 +87,7 @@ input {
     text-align: center;
     border-bottom: 10px;
     border-color: #666666;
+    font-size: 2em;
 }
 
 .clearfix:after {
@@ -105,6 +106,10 @@ input {
 }
 
 .about {
+    color: #4aaaa5;
+}
+
+.contactme {
     color: #4aaaa5;
 }
 
@@ -128,6 +133,10 @@ input {
 
 .line {
     color: #666666;
+}
+
+.portfolio {
+    color: #4aaaa5;
 }
 
 #shrek {
