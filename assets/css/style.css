@@ -124,13 +124,16 @@ input {
     margin-bottom: 20px;
     float: left;
     position: relative;
+    border-style: solid;
+    border-color: #666666;
+    border-width: 3px; 
 }
 
 .text-block {
     position:absolute;
     background-color: #4aaaa5;
     color: #ffffff;
-    top: 100px;
+    top: 75%;
     width: 100%;
     text-align: center;
     padding-top: 5px;
